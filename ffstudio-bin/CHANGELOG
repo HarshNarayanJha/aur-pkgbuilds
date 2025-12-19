@@ -1,0 +1,11 @@
+## [0.2.4] - 2025-10-29
+
+### Bug Fixes & Improvements
+- Fixed a crash when deleting a segment while another segment was selected.
+- Improved the preview generation logic — now users can generate previews for any segment or frame, not just a limited set of small jobs.
+- Added support for audio-based preview rendering and fixed an index‑issue in preview creation.
+- Miscellaneous performance and stability improvements for segment/frame preview pipeline.
+
+### What's Changed
+- Bugfix/missing ctx flags by @Draver93 in #5
+- Bugfix/loading preview seg failed by @Draver93 in #6
