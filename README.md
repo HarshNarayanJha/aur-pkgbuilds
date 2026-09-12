@@ -1,6 +1,6 @@
 # aur-pkgbuilds
 
-Contains all the [AUR](https://aur.archlinux.org/) pkgbuilds that I maintain.
+Contains all the [AUR](https://aur.archlinux.org/packages?O=0&SeB=m&K=harshnj&outdated=&SB=p&SO=d&PP=50&submit=Go) pkgbuilds that I maintain.
 
 ## Maintainance
 
